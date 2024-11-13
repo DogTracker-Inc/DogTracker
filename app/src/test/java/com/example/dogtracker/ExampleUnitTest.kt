@@ -1,4 +1,4 @@
-package com.example.template
+package com.example.dogtracker
 
 import org.junit.Test
 

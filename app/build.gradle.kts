@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.template"
+    namespace = "com.example.dogtracker"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.template"
+        applicationId = "com.example.dogtracker"
         minSdk = 25
         targetSdk = 34
         versionCode = 1
@@ -42,6 +42,7 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+    implementation(libs.play.services.maps)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

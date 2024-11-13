@@ -1,4 +1,4 @@
-package com.example.template
+package com.example.dogtracker
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
