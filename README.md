@@ -94,13 +94,13 @@ this section]
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![image](https://github.com/user-attachments/assets/da603696-0549-4258-9ecf-6a7e03e017aa)
+
+![image](https://github.com/user-attachments/assets/2ae8c16c-6672-403b-b4e7-09062e865eec)
 
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+
 
 <br>
 
