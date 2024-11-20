@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461043385013",
+    "project_id": "dogtracker-47257",
+    "storage_bucket": "dogtracker-47257.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461043385013:android:4f8b95445085b5e388f4fc",
+        "android_client_info": {
+          "package_name": "com.example.dogtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhixYSPRKngWRektSuWAo3ofSdrVRciuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

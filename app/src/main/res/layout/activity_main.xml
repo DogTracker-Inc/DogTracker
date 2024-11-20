@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- Map Fragment Container -->
     <FrameLayout
         android:id="@+id/map_fragment_container"
         android:layout_width="0dp"
@@ -18,7 +17,6 @@
         app:layout_constraintRight_toRightOf="parent"
         tools:ignore="MissingConstraints" />
 
-    <!-- Family Profile Section -->
     <LinearLayout
         android:id="@+id/profile_container"
         android:orientation="horizontal"
@@ -59,5 +57,9 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:menu="@menu/bottom_nav_menu" />
+    <FrameLayout
+        android:id="@+id/fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
